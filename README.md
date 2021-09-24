@@ -11,5 +11,5 @@ Incluye:
 
 ### Versión: 1.0.0
 
-### Enlace de la app: [**SPA-Padron-Jovenes**](https://mjmed.github.io/spa-padron-jovenes/).
+#### Enlace de la app: [**SPA-Padron-Jovenes**](https://mjmed.github.io/spa-padron-jovenes/).
 
